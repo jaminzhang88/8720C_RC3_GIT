@@ -1,0 +1,249 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project>
+    <fileVersion>4</fileVersion>
+    <fileChecksum>1707363779</fileChecksum>
+    <configuration>
+        <name>Debug</name>
+        <outputs>
+            <file>$PROJ_DIR$\..\..\..\component\soc\realtek\8710c\fwlib\source\ram\hal_uart.c</file>
+            <file>$PROJ_DIR$\..\..\..\component\soc\realtek\8710c\cmsis\rtl8710c\source\ram\mpu_config.c</file>
+            <file>$PROJ_DIR$\..\..\..\component\soc\realtek\8710c\app\shell\ram_s\consol_cmds.c</file>
+            <file>$PROJ_DIR$\..\..\..\component\soc\realtek\8710c\fwlib\source\ram\hal_gpio.c</file>
+            <file>$PROJ_DIR$\..\..\..\component\soc\realtek\8710c\fwlib\source\ram_s\hal_efuse_nsc.c</file>
+            <file>$PROJ_DIR$\..\..\..\component\os\freertos\freertos_v10.0.1\Source\portable\MemMang\heap_5.c</file>
+            <file>$PROJ_DIR$\..\..\..\component\common\mbed\targets\hal\rtl8710c\crypto_api.c</file>
+            <file>$PROJ_DIR$\..\..\..\component\soc\realtek\8710c\fwlib\source\ram\hal_gdma.c</file>
+            <file>$PROJ_DIR$\..\..\..\component\soc\realtek\8710c\fwlib\source\ram_s\hal_pinmux_nsc.c</file>
+            <file>$PROJ_DIR$\..\..\..\component\os\freertos\freertos_v10.0.1\Source\secure\stack_s.c</file>
+            <file>$PROJ_DIR$\..\src\main_s.c</file>
+            <file>$PROJ_DIR$\..\..\..\component\soc\realtek\8710c\misc\utilities\source\ram\libc_wrap.c</file>
+            <file>$PROJ_DIR$\..\..\..\component\soc\realtek\8710c\fwlib\source\ram\hal_misc.c</file>
+            <file>$PROJ_DIR$\..\..\..\component\soc\realtek\8710c\fwlib\source\ram_s\hal_efuse.c</file>
+            <file>$PROJ_DIR$\Debug\Obj\application_s\libc_wrap.o</file>
+            <file>$PROJ_DIR$\Debug\Obj\application_s\consol_cmds.o</file>
+            <file>$PROJ_DIR$\Debug\Obj\application_s\heap_5.o</file>
+            <file>$PROJ_DIR$\Debug\Obj\application_s\mpu_config.o</file>
+            <file>$PROJ_DIR$\Debug\Obj\application_s\stack_s.o</file>
+            <file>$PROJ_DIR$\Debug\Obj\application_s\crypto_api.o</file>
+            <file>$PROJ_DIR$\Debug\Obj\application_s\hal_efuse.o</file>
+            <file>$PROJ_DIR$\Debug\Obj\application_s\hal_efuse_nsc.o</file>
+            <file>$PROJ_DIR$\Debug\Obj\application_s\hal_gdma.o</file>
+            <file>$PROJ_DIR$\Debug\Obj\application_s\heap_5.pbi</file>
+            <file>$PROJ_DIR$\Debug\Obj\application_s\hal_uart.pbi</file>
+            <file>$PROJ_DIR$\Debug\Obj\application_s\application_s.pbd</file>
+            <file>$PROJ_DIR$\Debug\Obj\application_s\hal_misc.o</file>
+            <file>$PROJ_DIR$\Debug\Obj\application_s\mpu_config.pbi</file>
+            <file>$PROJ_DIR$\Debug\Obj\application_s\hal_efuse.pbi</file>
+            <file>$PROJ_DIR$\Debug\Obj\application_s\main_s.o</file>
+            <file>$PROJ_DIR$\Debug\Obj\application_s\hal_gpio.pbi</file>
+            <file>$PROJ_DIR$\Debug\Obj\application_s\consol_cmds.pbi</file>
+            <file>$PROJ_DIR$\Debug\Obj\application_s\hal_misc.pbi</file>
+            <file>$PROJ_DIR$\Debug\Obj\application_s\hal_uart.o</file>
+            <file>$PROJ_DIR$\Debug\Obj\application_s\hal_pinmux_nsc.pbi</file>
+            <file>$PROJ_DIR$\Debug\Obj\application_s\main_s.pbi</file>
+            <file>$PROJ_DIR$\Debug\Obj\application_s\hal_gpio.o</file>
+            <file>$PROJ_DIR$\Debug\Exe\application_s.out</file>
+            <file>$PROJ_DIR$\Debug\Obj\application_s\crypto_api.pbi</file>
+            <file>$PROJ_DIR$\Debug\Obj\application_s\libc_wrap.pbi</file>
+            <file>$PROJ_DIR$\Debug\Obj\application_s\hal_pinmux_nsc.o</file>
+            <file>$PROJ_DIR$\Debug\Obj\application_s\stack_s.pbi</file>
+            <file>$PROJ_DIR$\Debug\Obj\application_s\hal_efuse_nsc.pbi</file>
+            <file>$PROJ_DIR$\Debug\Obj\application_s\hal_gdma.pbi</file>
+        </outputs>
+        <file>
+            <name>$PROJ_DIR$\..\..\..\component\soc\realtek\8710c\fwlib\source\ram\hal_uart.c</name>
+            <outputs>
+                <tool>
+                    <name>ICCARM</name>
+                    <file> 33</file>
+                </tool>
+                <tool>
+                    <name>BICOMP</name>
+                    <file> 24</file>
+                </tool>
+            </outputs>
+        </file>
+        <file>
+            <name>$PROJ_DIR$\..\..\..\component\soc\realtek\8710c\cmsis\rtl8710c\source\ram\mpu_config.c</name>
+            <outputs>
+                <tool>
+                    <name>ICCARM</name>
+                    <file> 17</file>
+                </tool>
+                <tool>
+                    <name>BICOMP</name>
+                    <file> 27</file>
+                </tool>
+            </outputs>
+        </file>
+        <file>
+            <name>$PROJ_DIR$\..\..\..\component\soc\realtek\8710c\app\shell\ram_s\consol_cmds.c</name>
+            <outputs>
+                <tool>
+                    <name>ICCARM</name>
+                    <file> 15</file>
+                </tool>
+                <tool>
+                    <name>BICOMP</name>
+                    <file> 31</file>
+                </tool>
+            </outputs>
+        </file>
+        <file>
+            <name>$PROJ_DIR$\..\..\..\component\soc\realtek\8710c\fwlib\source\ram\hal_gpio.c</name>
+            <outputs>
+                <tool>
+                    <name>ICCARM</name>
+                    <file> 36</file>
+                </tool>
+                <tool>
+                    <name>BICOMP</name>
+                    <file> 30</file>
+                </tool>
+            </outputs>
+        </file>
+        <file>
+            <name>$PROJ_DIR$\..\..\..\component\soc\realtek\8710c\fwlib\source\ram_s\hal_efuse_nsc.c</name>
+            <outputs>
+                <tool>
+                    <name>ICCARM</name>
+                    <file> 21</file>
+                </tool>
+                <tool>
+                    <name>BICOMP</name>
+                    <file> 42</file>
+                </tool>
+            </outputs>
+        </file>
+        <file>
+            <name>$PROJ_DIR$\..\..\..\component\os\freertos\freertos_v10.0.1\Source\portable\MemMang\heap_5.c</name>
+            <outputs>
+                <tool>
+                    <name>ICCARM</name>
+                    <file> 16</file>
+                </tool>
+                <tool>
+                    <name>BICOMP</name>
+                    <file> 23</file>
+                </tool>
+            </outputs>
+        </file>
+        <file>
+            <name>$PROJ_DIR$\..\..\..\component\common\mbed\targets\hal\rtl8710c\crypto_api.c</name>
+            <outputs>
+                <tool>
+                    <name>ICCARM</name>
+                    <file> 19</file>
+                </tool>
+                <tool>
+                    <name>BICOMP</name>
+                    <file> 38</file>
+                </tool>
+            </outputs>
+        </file>
+        <file>
+            <name>$PROJ_DIR$\..\..\..\component\soc\realtek\8710c\fwlib\source\ram\hal_gdma.c</name>
+            <outputs>
+                <tool>
+                    <name>ICCARM</name>
+                    <file> 22</file>
+                </tool>
+                <tool>
+                    <name>BICOMP</name>
+                    <file> 43</file>
+                </tool>
+            </outputs>
+        </file>
+        <file>
+            <name>$PROJ_DIR$\..\..\..\component\soc\realtek\8710c\fwlib\source\ram_s\hal_pinmux_nsc.c</name>
+            <outputs>
+                <tool>
+                    <name>ICCARM</name>
+                    <file> 40</file>
+                </tool>
+                <tool>
+                    <name>BICOMP</name>
+                    <file> 34</file>
+                </tool>
+            </outputs>
+        </file>
+        <file>
+            <name>$PROJ_DIR$\..\..\..\component\os\freertos\freertos_v10.0.1\Source\secure\stack_s.c</name>
+            <outputs>
+                <tool>
+                    <name>ICCARM</name>
+                    <file> 18</file>
+                </tool>
+                <tool>
+                    <name>BICOMP</name>
+                    <file> 41</file>
+                </tool>
+            </outputs>
+        </file>
+        <file>
+            <name>$PROJ_DIR$\..\src\main_s.c</name>
+            <outputs>
+                <tool>
+                    <name>ICCARM</name>
+                    <file> 29</file>
+                </tool>
+                <tool>
+                    <name>BICOMP</name>
+                    <file> 35</file>
+                </tool>
+            </outputs>
+        </file>
+        <file>
+            <name>$PROJ_DIR$\..\..\..\component\soc\realtek\8710c\misc\utilities\source\ram\libc_wrap.c</name>
+            <outputs>
+                <tool>
+                    <name>ICCARM</name>
+                    <file> 14</file>
+                </tool>
+                <tool>
+                    <name>BICOMP</name>
+                    <file> 39</file>
+                </tool>
+            </outputs>
+        </file>
+        <file>
+            <name>$PROJ_DIR$\..\..\..\component\soc\realtek\8710c\fwlib\source\ram\hal_misc.c</name>
+            <outputs>
+                <tool>
+                    <name>ICCARM</name>
+                    <file> 26</file>
+                </tool>
+                <tool>
+                    <name>BICOMP</name>
+                    <file> 32</file>
+                </tool>
+            </outputs>
+        </file>
+        <file>
+            <name>$PROJ_DIR$\..\..\..\component\soc\realtek\8710c\fwlib\source\ram_s\hal_efuse.c</name>
+            <outputs>
+                <tool>
+                    <name>ICCARM</name>
+                    <file> 20</file>
+                </tool>
+                <tool>
+                    <name>BICOMP</name>
+                    <file> 28</file>
+                </tool>
+            </outputs>
+        </file>
+        <file>
+            <name>[ROOT_NODE]</name>
+            <outputs>
+                <tool>
+                    <name>ILINK</name>
+                    <file> 37</file>
+                </tool>
+            </outputs>
+        </file>
+        <forcedrebuild>
+            <name>[MULTI_TOOL]</name>
+            <tool>ILINK</tool>
+        </forcedrebuild>
+    </configuration>
+</project>

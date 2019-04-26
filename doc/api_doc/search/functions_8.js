@@ -1,0 +1,25 @@
+var searchData=
+[
+  ['sn_5fcoap_5fbuild_5fresponse',['sn_coap_build_response',['../group__coap.html#ga60064d3b286da3b3aba41848934ad8f6',1,'sn_coap_header.h']]],
+  ['sn_5fcoap_5fbuilder',['sn_coap_builder',['../group__coap.html#ga1154e1630130b2b4cfffd3a10259d2a8',1,'sn_coap_header.h']]],
+  ['sn_5fcoap_5fbuilder_5f2',['sn_coap_builder_2',['../group__coap.html#ga174db4c5a65f5a12f28855a2d62fe41d',1,'sn_coap_header.h']]],
+  ['sn_5fcoap_5fbuilder_5fcalc_5fneeded_5fpacket_5fdata_5fsize',['sn_coap_builder_calc_needed_packet_data_size',['../group__coap.html#gaaac235555ebad7eb13949aa18d5e783f',1,'sn_coap_header.h']]],
+  ['sn_5fcoap_5fbuilder_5fcalc_5fneeded_5fpacket_5fdata_5fsize_5f2',['sn_coap_builder_calc_needed_packet_data_size_2',['../group__coap.html#gad5d0769a114c570b1a4d8c97e9173415',1,'sn_coap_header.h']]],
+  ['sn_5fcoap_5fparser',['sn_coap_parser',['../group__coap.html#ga80104792c9673afa8412879e0cb2d9cc',1,'sn_coap_header.h']]],
+  ['sn_5fcoap_5fparser_5falloc_5fmessage',['sn_coap_parser_alloc_message',['../group__coap.html#ga390079da13bcb662d7cc70c77b0070ec',1,'sn_coap_header.h']]],
+  ['sn_5fcoap_5fparser_5falloc_5foptions',['sn_coap_parser_alloc_options',['../group__coap.html#ga864cefe478283076dd8c09a452c0894f',1,'sn_coap_header.h']]],
+  ['sn_5fcoap_5fparser_5finit_5fmessage',['sn_coap_parser_init_message',['../group__coap.html#gab9ac3f8363bb8fb97f812c715b41ba88',1,'sn_coap_header.h']]],
+  ['sn_5fcoap_5fparser_5frelease_5fallocated_5fcoap_5fmsg_5fmem',['sn_coap_parser_release_allocated_coap_msg_mem',['../group__coap.html#ga69067137006ea18c05114816e4ab8723',1,'sn_coap_header.h']]],
+  ['sn_5fcoap_5fprotocol_5fblock_5fremove',['sn_coap_protocol_block_remove',['../group__coap.html#gaa15b043f4e50fb189279eed6c636d99f',1,'sn_coap_protocol.h']]],
+  ['sn_5fcoap_5fprotocol_5fbuild',['sn_coap_protocol_build',['../group__coap.html#ga142f9cb4f67a4ae94138b262969a9a65',1,'sn_coap_protocol.h']]],
+  ['sn_5fcoap_5fprotocol_5fclear_5fretransmission_5fbuffer',['sn_coap_protocol_clear_retransmission_buffer',['../group__coap.html#ga1f77f3103eb61915110405c46f00ec9c',1,'sn_coap_protocol.h']]],
+  ['sn_5fcoap_5fprotocol_5fdelete_5fretransmission',['sn_coap_protocol_delete_retransmission',['../group__coap.html#ga886ae23b591e7a1099e921714b3e5f2e',1,'sn_coap_protocol.h']]],
+  ['sn_5fcoap_5fprotocol_5fdestroy',['sn_coap_protocol_destroy',['../group__coap.html#ga9a8f99056af7c1a8a8880708c46b72d8',1,'sn_coap_protocol.h']]],
+  ['sn_5fcoap_5fprotocol_5fexec',['sn_coap_protocol_exec',['../group__coap.html#gaf0b59b7758588e49380bfcc79a39b6d4',1,'sn_coap_protocol.h']]],
+  ['sn_5fcoap_5fprotocol_5finit',['sn_coap_protocol_init',['../group__coap.html#ga9113e5503267462b7bab78ca378972d7',1,'sn_coap_protocol.h']]],
+  ['sn_5fcoap_5fprotocol_5fparse',['sn_coap_protocol_parse',['../group__coap.html#gaadd6e5537265e26823babae9f6e85610',1,'sn_coap_protocol.h']]],
+  ['sn_5fcoap_5fprotocol_5fset_5fblock_5fsize',['sn_coap_protocol_set_block_size',['../group__coap.html#gaaf3b06868caaeeeb89533d432d4c05d8',1,'sn_coap_protocol.h']]],
+  ['sn_5fcoap_5fprotocol_5fset_5fduplicate_5fbuffer_5fsize',['sn_coap_protocol_set_duplicate_buffer_size',['../group__coap.html#ga93a7f28d1089d6f10b2133c7ba89b81a',1,'sn_coap_protocol.h']]],
+  ['sn_5fcoap_5fprotocol_5fset_5fretransmission_5fbuffer',['sn_coap_protocol_set_retransmission_buffer',['../group__coap.html#ga460f5825ac70f0856376a70b95a22a7e',1,'sn_coap_protocol.h']]],
+  ['sn_5fcoap_5fprotocol_5fset_5fretransmission_5fparameters',['sn_coap_protocol_set_retransmission_parameters',['../group__coap.html#gaef16336455064c5baa92f3f3d9738a35',1,'sn_coap_protocol.h']]]
+];
